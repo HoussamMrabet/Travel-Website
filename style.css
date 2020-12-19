@@ -24,6 +24,8 @@ body {
   width: 80%;
   margin: auto;
   padding: 2rem 0;
+  z-index: 2;
+  position: relative;
 }
 
 .line1,
